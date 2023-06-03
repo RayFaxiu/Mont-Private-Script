@@ -1,5 +1,5 @@
 return {
-	["ChaseBuiltLikePringl"] = {
+	[""] = {
 		TagText = "Soggy",
 		TagColor = Color3.new(0.7, 0, 1)
 	},
@@ -15,8 +15,8 @@ return {
 		TagText = "RAY MOBILE",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
-	[""] = {
-		TagText = "VAPE OWNER",
+	["ChaseBuiltLikePringl"] = {
+		TagText = "Soggy",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
 	["IdkDudeWhatYou"] = {
