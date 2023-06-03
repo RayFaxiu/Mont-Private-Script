@@ -1,6 +1,6 @@
 return {
-	[""] = {
-		TagText = "RAYWARE PRIVATE",
+	["ChaseBuiltLikePringl"] = {
+		TagText = "Soggy",
 		TagColor = Color3.new(0.7, 0, 1)
 	},
 	[""] = {
